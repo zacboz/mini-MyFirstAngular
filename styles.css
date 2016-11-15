@@ -1,0 +1,9 @@
+body {
+  background-color: lightblue;
+  color: white;
+}
+
+.naughty {
+  text-decoration: line-through;
+  color: gray;
+}
